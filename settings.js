@@ -2,7 +2,7 @@ const settings = {
   packname: '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫',
   author: '‎',
   botName: "𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫",
-  botOwner: 'Professor', // Your name
+  botOwner: '𝐎𝐓𝐓𝐎²•اوتـــــو', // Your name
   ownerNumber: '249126083647', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
