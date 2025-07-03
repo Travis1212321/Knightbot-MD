@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫',
   author: '‎',
-  botName: "Knight Bot",
+  botName: "𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫",
   botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '249126083647', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
